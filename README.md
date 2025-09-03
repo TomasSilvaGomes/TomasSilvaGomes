@@ -21,6 +21,7 @@
 ###
 
 <p align="left">I'm Tomás from Portugal<br><br>- 📚 I'm currently studying Artificial Intelligence and Data Science at Universidade Da Beira Interior (UBI)</p>
+<a href="https://www.ubi.pt/curso/1304"> UBI course</a>
 
 ###
 
