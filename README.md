@@ -49,7 +49,7 @@
 <h3>🎯 Vision</h3>
 <p>
   To become a skilled <strong>AI/ML Engineer</strong>, working at the intersection of
-  <strong>Computer Vision</strong> and <strong>NLP</strong>.
+  <strong>Computer Vision and respective Explicability</strong> and <strong>NLP</strong>.
 </p>
 
 </div>
@@ -94,8 +94,6 @@
 <h3>🗄️ Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 <h3>⚒️ Tools & Environment</h3>
@@ -221,11 +219,9 @@
   <a href="https://www.linkedin.com/in/tomasgomes2005">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/TomasSilvaGomes">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="mailto:tomygomes7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
 
-<h6 align="center">💜 Built with passion by <strong>Tomás Silva Gomes</strong></h6>
